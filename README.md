@@ -48,5 +48,5 @@ ___
 
 ___
 ## Acknowledgments
-* [link to Udacity](udacity.com) for providing the [link to Data Sciencist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
-* [link to Figure Eight](appen.com) for providing the data to train the model. 
+* [Udacity](udacity.com) for providing the [link to Data Sciencist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+* [Figure Eight](appen.com) for providing the data to train the model. 
