@@ -45,3 +45,8 @@ ___
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 3. Go to http://0.0.0.0:3001/
+
+___
+## Acknowledgments
+* [link to Udacity](udacity.com) for providing the [link to Data Sciencist Nanodegree Program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+* [link to Figure Eight](appen.com) for providing the data to train the model. 
